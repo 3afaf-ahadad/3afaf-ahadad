@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afaf_ahadad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afaf20ahadad@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3afaf-ahadad ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afaf20ahadad@gmail.com) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
