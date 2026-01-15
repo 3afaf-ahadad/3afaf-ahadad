@@ -1,6 +1,10 @@
 # Hi there 👋
-## 💫 About Me:
-🎀 I'm a passionate front-end developer, enjoying turning ideas into interactive and visually engaging web experiences👩🏽‍💻✨.<br>Blending code with creativity, I'm comfortable working with HTML, CSS, JavaScript, and frameworks and often, I bring in my design background to make interfaces feel both functional and aesthetic🎨🌷.<br><br>Outside the front-end world, I also enjoy working with Python for scripting, and logic-based projects.<br>👩🏽‍🏫I'm constantly learning, whether it's through hands-on coding, experimenting with UI/UX, or exploring version control with Git.<br><br>When I'm not coding, 🙂 you'll probably find me drawing 👩🏽‍🎨, 😃 or brainstorming my next project.<br>
+## About Me:
+🎀 I'm a passionate Front-End Developer who loves blending code with creativity to build functional and aesthetic web experiences. With a background in design, I specialize in HTML, CSS, JavaScript, and modern frameworks like React.
+<br>
+
+I like Building interactive interfaces with a focus on UI/UX, solving logic-based problems using Python and Laravel, also, constantly learning and improving through hands-on projects ✨.
+
 
 
 ## 🌐 Socials:
