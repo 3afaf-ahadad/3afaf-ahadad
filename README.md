@@ -1,5 +1,5 @@
-![Hi There!](Hi_There.gif)
-## About Me:
+ ![Hi There!](Hi_There.gif)
+# About Me:
 🎀 I'm a passionate Front-End Developer who loves blending code with creativity to build functional and aesthetic web experiences. With a background in design, I specialize in HTML, CSS, JavaScript, and modern frameworks like React.
 <br>
 
